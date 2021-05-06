@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CZ2002STARSl:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b2a96ea-68a5-4f89-8ab5-21e919bb5e30" name="Default Changelist" comment="finalise">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CZ2002STARSl_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../final\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kGHrh4bVEHEtUDnnNE82EiCTAT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/CZ2002STARSl_jar" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="ControlObject" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="EntityObject" />
+      <recent name="Helper" />
+      <recent name="DataAccessObject" />
+      <recent name="Control" />
+      <recent name="ValueObject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yangc\OneDrive - Nanyang Technological University\Uni\CZ2002\Project\final\src\ValueObject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yangc\OneDrive - Nanyang Technological University\Uni\CZ2002\Project\final\data" />
+      <recent name="C:\Users\yangc\OneDrive - Nanyang Technological University\Uni\CZ2002\Project\final" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="STARSApp" />
+      <module name="final" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Java Scratch.Scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b2a96ea-68a5-4f89-8ab5-21e919bb5e30" name="Default Changelist" comment="" />
+      <created>1605320208800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605320208800</updated>
+      <workItem from="1605320212777" duration="35499000" />
+      <workItem from="1605507051415" duration="206000" />
+      <workItem from="1605507376413" duration="210000" />
+      <workItem from="1605507850865" duration="73191000" />
+      <workItem from="1605925520839" duration="68909000" />
+      <workItem from="1606029593812" duration="117550000" />
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1605521309181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605521309181</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1605521322046</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605521322046</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added exceptions">
+      <created>1605523951334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605523951334</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added test">
+      <created>1605524320391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605524320391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added test">
+      <created>1605524334668</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605524334668</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added test">
+      <created>1605524622334</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605524622334</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added hashing">
+      <created>1605599615294</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605599615294</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added hashing">
+      <created>1605599629742</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605599629742</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refactor">
+      <created>1605607326806</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607326806</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refactor">
+      <created>1605607353373</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605607353373</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added user check courses registered, check vacancies available, change index number of course, and swap index number with another student functionalities">
+      <created>1605679921202</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605679921202</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added user check courses registered, check vacancies available, change index number of course, and swap index number with another student functionalities">
+      <created>1605679939150</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605679939150</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added admin add/update course, check available slots for an index number, print student list by index number, print student list by course">
+      <created>1605685739168</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605685739168</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added admin add/update course, check available slots for an index number, print student list by index number, print student list by course">
+      <created>1605685746181</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605685746181</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added user check courses registered, check vacancies available, change index number of course, and swap index number with another student functionalities">
+      <created>1605689922587</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605689922587</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added user check courses registered, check vacancies available, change index number of course, and swap index number with another student functionalities">
+      <created>1605689928256</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605689928256</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added most functionalities">
+      <created>1605698451284</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605698451284</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added most functionalities">
+      <created>1605698461786</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605698461786</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added most functionalities">
+      <created>1605705859298</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605705859298</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added masking for password">
+      <created>1605707046863</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605707046863</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added masking for password">
+      <created>1605707060625</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605707060625</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added masking for password">
+      <created>1605842404580</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605842404580</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added masking for password">
+      <created>1605842735038</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605842735038</updated>
+    </task>
+    <task id="LOCAL-00026" summary="incorporated text.io">
+      <created>1605941150725</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1605941150725</updated>
+    </task>
+    <task id="LOCAL-00027" summary="incorporated text.io">
+      <created>1605941167429</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1605941167429</updated>
+    </task>
+    <task id="LOCAL-00028" summary="incorporated text.io">
+      <created>1605954265758</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1605954265758</updated>
+    </task>
+    <task id="LOCAL-00029" summary="incorporated text.io">
+      <created>1605955836441</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1605955836441</updated>
+    </task>
+    <task id="LOCAL-00030" summary="incorporated text.io">
+      <created>1605955926334</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1605955926334</updated>
+    </task>
+    <task id="LOCAL-00031" summary="incorporated text.io">
+      <created>1605968819907</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1605968819907</updated>
+    </task>
+    <task id="LOCAL-00032" summary="incorporated text.io">
+      <created>1605968824540</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1605968824540</updated>
+    </task>
+    <task id="LOCAL-00033" summary="incorporated text.io">
+      <created>1605968835126</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1605968835126</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fixed bugs">
+      <created>1605982558108</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1605982558108</updated>
+    </task>
+    <task id="LOCAL-00035" summary="added console cancel action functionality&#10;bug fixes">
+      <created>1606043325830</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1606043325830</updated>
+    </task>
+    <task id="LOCAL-00036" summary="added console cancel action functionality&#10;bug fixes">
+      <created>1606043387492</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1606043387492</updated>
+    </task>
+    <task id="LOCAL-00037" summary="banana">
+      <created>1606057410208</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1606057410208</updated>
+    </task>
+    <task id="LOCAL-00038" summary="prevent student from adding courses that causes time table clashes">
+      <created>1606057506924</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1606057506924</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added new functionalities : sign in as student and perform tasks regardless of registration period, delete index, delete course">
+      <created>1606124435530</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1606124435530</updated>
+    </task>
+    <task id="LOCAL-00040" summary="refactoring">
+      <created>1606148368586</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1606148368586</updated>
+    </task>
+    <task id="LOCAL-00041" summary="refactoring">
+      <created>1606148412540</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1606148412540</updated>
+    </task>
+    <task id="LOCAL-00042" summary="refactoring">
+      <created>1606152326928</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1606152326928</updated>
+    </task>
+    <task id="LOCAL-00043" summary="refactoring">
+      <created>1606154121446</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1606154121446</updated>
+    </task>
+    <task id="LOCAL-00044" summary="refactoring">
+      <created>1606154878812</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1606154878812</updated>
+    </task>
+    <task id="LOCAL-00045" summary="refactoring">
+      <created>1606157206491</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1606157206491</updated>
+    </task>
+    <task id="LOCAL-00046" summary="refactoring, added javadoc">
+      <created>1606209601808</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1606209601808</updated>
+    </task>
+    <task id="LOCAL-00047" summary="refactoring, added javadoc">
+      <created>1606209610870</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1606209610870</updated>
+    </task>
+    <task id="LOCAL-00048" summary="refactoring, added javadoc">
+      <created>1606220563297</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1606220563297</updated>
+    </task>
+    <task id="LOCAL-00049" summary="refactoring, added javadoc">
+      <created>1606220573467</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1606220573467</updated>
+    </task>
+    <task id="LOCAL-00050" summary="finalise">
+      <created>1606258019763</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1606258019763</updated>
+    </task>
+    <task id="LOCAL-00051" summary="finalise">
+      <created>1606258024173</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1606258024173</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added exceptions" />
+    <MESSAGE value="added test" />
+    <MESSAGE value="added hashing" />
+    <MESSAGE value="refactor" />
+    <MESSAGE value="added admin add/update course, check available slots for an index number, print student list by index number, print student list by course" />
+    <MESSAGE value="added user check courses registered, check vacancies available, change index number of course, and swap index number with another student functionalities" />
+    <MESSAGE value="added most functionalities" />
+    <MESSAGE value="added masking for password" />
+    <MESSAGE value="incorporated text.io" />
+    <MESSAGE value="fixed bugs" />
+    <MESSAGE value="added console cancel action functionality&#10;bug fixes" />
+    <MESSAGE value="banana" />
+    <MESSAGE value="prevent student from adding courses that causes time table clashes" />
+    <MESSAGE value="added new functionalities : sign in as student and perform tasks regardless of registration period, delete index, delete course" />
+    <MESSAGE value="refactoring" />
+    <MESSAGE value="refactoring, added javadoc" />
+    <MESSAGE value="finalise" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalise" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="0" width="616" height="760" key="#Main" timestamp="1605507032156">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="299" y="0" width="616" height="760" key="#Main/0.0.1200.760@0.0.1200.760" timestamp="1605507032156" />
+    <state x="82" y="0" key="#Project_Structure" timestamp="1606144663107">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="82" y="0" key="#Project_Structure/0.0.1200.760@0.0.1200.760" timestamp="1606144663107" />
+    <state x="57" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605507242565">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="57" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1200.760@0.0.1200.760" timestamp="1605507242565" />
+    <state x="342" y="183" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606124816617">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="342" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1200.760@0.0.1200.760" timestamp="1606124816617" />
+    <state x="389" y="85" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605507019668">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="389" y="85" key="#com.intellij.ide.macro.MacrosDialog/0.0.1200.760@0.0.1200.760" timestamp="1605507019668" />
+    <state x="521" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1606192345892">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="521" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1606192345892" />
+    <state x="341" y="157" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1605606183737">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="341" y="157" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1200.760@0.0.1200.760" timestamp="1605606183737" />
+    <state x="338" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606258214943">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="338" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1200.760@0.0.1200.760" timestamp="1606258214943" />
+    <state x="432" y="64" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1605923158789">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="432" y="64" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1200.760@0.0.1200.760" timestamp="1605923158789" />
+    <state x="351" y="208" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1606145094027">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="351" y="208" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1200.760@0.0.1200.760" timestamp="1606145094027" />
+    <state x="385" y="271" width="448" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606184918996">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="385" y="271" width="448" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1200.760@0.0.1200.760" timestamp="1606184918996" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606211163995">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1200.760@0.0.1200.760" timestamp="1606211163995" />
+    <state x="332" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605700702731">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="332" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1200.760@0.0.1200.760" timestamp="1605700702731" />
+    <state x="438" y="291" key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog" timestamp="1606145124089">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="438" y="291" key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog/0.0.1200.760@0.0.1200.760" timestamp="1606145124089" />
+    <state x="332" y="128" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605340359431">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="332" y="128" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1200.760@0.0.1200.760" timestamp="1605340359431" />
+    <state x="336" y="200" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606257032041">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="336" y="200" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1200.760@0.0.1200.760" timestamp="1606257032041" />
+    <state width="588" height="442" key="Diff.GoToChangePopup" timestamp="1606185841397">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="588" height="442" key="Diff.GoToChangePopup/0.0.1200.760@0.0.1200.760" timestamp="1606185841397" />
+    <state x="74" y="-12" width="1013" height="573" maximized="true" key="DiffContextDialog" timestamp="1606256895762">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="74" y="-12" width="1013" height="573" maximized="true" key="DiffContextDialog/0.0.1200.760@0.0.1200.760" timestamp="1606256895762" />
+    <state x="382" y="136" key="FileChooserDialogImpl" timestamp="1606258657416">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="382" y="136" key="FileChooserDialogImpl/0.0.1200.760@0.0.1200.760" timestamp="1606258657416" />
+    <state x="438" y="293" key="Github.Dialog.Accounts.Choose" timestamp="1606255374904">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="438" y="293" key="Github.Dialog.Accounts.Choose/0.0.1200.760@0.0.1200.760" timestamp="1606255374904" />
+    <state x="409" y="261" width="383" height="311" key="Github.ShareDialog" timestamp="1605508435971">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="409" y="261" width="383" height="311" key="Github.ShareDialog/0.0.1200.760@0.0.1200.760" timestamp="1605508435971" />
+    <state x="279" y="79" key="Github.UntrackedFilesDialog" timestamp="1605508454475">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="279" y="79" key="Github.UntrackedFilesDialog/0.0.1200.760@0.0.1200.760" timestamp="1605508454475" />
+    <state width="1157" height="234" key="GridCell.Tab.0.bottom" timestamp="1606258719208">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="234" key="GridCell.Tab.0.bottom/0.0.1200.760@0.0.1200.760" timestamp="1606258719208" />
+    <state width="1157" height="234" key="GridCell.Tab.0.center" timestamp="1606258719207">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="234" key="GridCell.Tab.0.center/0.0.1200.760@0.0.1200.760" timestamp="1606258719207" />
+    <state width="1157" height="234" key="GridCell.Tab.0.left" timestamp="1606258719207">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="234" key="GridCell.Tab.0.left/0.0.1200.760@0.0.1200.760" timestamp="1606258719207" />
+    <state width="1157" height="234" key="GridCell.Tab.0.right" timestamp="1606258719208">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="234" key="GridCell.Tab.0.right/0.0.1200.760@0.0.1200.760" timestamp="1606258719208" />
+    <state width="1157" height="234" key="GridCell.Tab.1.bottom" timestamp="1606258719208">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="234" key="GridCell.Tab.1.bottom/0.0.1200.760@0.0.1200.760" timestamp="1606258719208" />
+    <state width="1157" height="234" key="GridCell.Tab.1.center" timestamp="1606258719208">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="234" key="GridCell.Tab.1.center/0.0.1200.760@0.0.1200.760" timestamp="1606258719208" />
+    <state width="1157" height="234" key="GridCell.Tab.1.left" timestamp="1606258719208">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="234" key="GridCell.Tab.1.left/0.0.1200.760@0.0.1200.760" timestamp="1606258719208" />
+    <state width="1157" height="234" key="GridCell.Tab.1.right" timestamp="1606258719208">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="1157" height="234" key="GridCell.Tab.1.right/0.0.1200.760@0.0.1200.760" timestamp="1606258719208" />
+    <state x="276" y="101" key="RollbackChangesDialog" timestamp="1606185932624">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="276" y="101" key="RollbackChangesDialog/0.0.1200.760@0.0.1200.760" timestamp="1606185932624" />
+    <state x="30" y="0" key="SettingsEditor" timestamp="1606258683149">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="30" y="0" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1606258683149" />
+    <state x="288" y="78" key="VCS.ChangeListViewerDialog" timestamp="1606185853136">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="288" y="78" key="VCS.ChangeListViewerDialog/0.0.1200.760@0.0.1200.760" timestamp="1606185853136" />
+    <state x="168" y="295" key="VCS.EditChangelistDialog" timestamp="1605685783627">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="168" y="295" key="VCS.EditChangelistDialog/0.0.1200.760@0.0.1200.760" timestamp="1605685783627" />
+    <state x="194" y="114" key="Vcs.Push.Dialog.v2" timestamp="1606258031898">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="194" y="114" key="Vcs.Push.Dialog.v2/0.0.1200.760@0.0.1200.760" timestamp="1606258031898" />
+    <state width="606" height="386" key="XDebugger.FullValuePopup" timestamp="1605511825096">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="606" height="386" key="XDebugger.FullValuePopup/0.0.1200.760@0.0.1200.760" timestamp="1605511825096" />
+    <state x="330" y="272" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605922853643">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="330" y="272" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1200.760@0.0.1200.760" timestamp="1605922853643" />
+    <state x="411" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606255618872">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="411" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1200.760@0.0.1200.760" timestamp="1606255618872" />
+    <state x="477" y="311" key="extract.method.dialog" timestamp="1606118867191">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="477" y="311" key="extract.method.dialog/0.0.1200.760@0.0.1200.760" timestamp="1606118867191" />
+    <state x="309" y="0" width="582" height="760" key="find.popup" timestamp="1606015932880">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="309" y="0" width="582" height="760" key="find.popup/0.0.1200.760@0.0.1200.760" timestamp="1606015932880" />
+    <state x="274" y="169" key="git4idea.merge.GitPullDialog" timestamp="1606255637160">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="274" y="169" key="git4idea.merge.GitPullDialog/0.0.1200.760@0.0.1200.760" timestamp="1606255637160" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1606244869423">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1200.760@0.0.1200.760" timestamp="1606244869422" />
+    <state x="258" y="172" key="run.anything.popup" timestamp="1606232980685">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="258" y="172" key="run.anything.popup/0.0.1200.760@0.0.1200.760" timestamp="1606232980685" />
+    <state x="263" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1606055067504">
+      <screen x="0" y="0" width="1200" height="760" />
+    </state>
+    <state x="263" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1200.760@0.0.1200.760" timestamp="1606055067504" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConsoleUtil.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ControlObject/ConsoleUserSession.java</url>
+          <line>650</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ControlObject/ConsoleUserSession.java</url>
+          <line>599</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
